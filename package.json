@@ -1,0 +1,23 @@
+{
+  "name": "google-calendar-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moninar/google-calendar-reader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moninar/google-calendar-reader/issues"
+  },
+  "homepage": "https://github.com/Moninar/google-calendar-reader#readme",
+  "dependencies": {
+    "google-calendar": "^1.3.2",
+    "passport": "^0.4.0"
+  }
+}
